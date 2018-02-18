@@ -1,0 +1,37 @@
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Buff Emoticons.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Buff Emoticons.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\TerrariaServer.exe
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\TShockAPI.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Newtonsoft.Json.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\MySql.Data.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\HttpServer.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\BCrypt.Net.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Mono.Data.Sqlite.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\obj\Debug\Buff Emoticons.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\obj\Debug\Buff Emoticons.dll
+c:\users\dylan\documents\visual studio 2015\Projects\Buff Emoticons\Buff Emoticons\obj\Debug\Buff Emoticons.pdb
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\Buff Emoticons.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\Buff Emoticons.pdb
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\TerrariaServer.exe
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\TShockAPI.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\MySql.Data.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\HttpServer.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\BCrypt.Net.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\obj\Debug\Buff Emoticons.csprojResolveAssemblyReference.cache
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\obj\Debug\Buff Emoticons.dll
+C:\Users\goofe\Documents\Visual Studio 2015\Projects\obj\Debug\Buff Emoticons.pdb
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\Buff Emoticons.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\Buff Emoticons.pdb
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\OTAPI.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\TerrariaServer.exe
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\TShockAPI.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\HttpServer.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\MySql.Data.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\BCrypt.Net.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.csprojResolveAssemblyReference.cache
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.dll
+C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.pdb

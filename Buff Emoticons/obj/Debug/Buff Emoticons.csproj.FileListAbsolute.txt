@@ -1,0 +1,10 @@
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Buff Emoticons.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Buff Emoticons.pdb
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\TerrariaServer.exe
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\TShockAPI.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\MySql.Data.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\HttpServer.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\BCrypt.Net.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\bin\Debug\Mono.Data.Sqlite.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\obj\Debug\Buff Emoticons.dll
+c:\users\ray\documents\visual studio 2013\Projects\Buff Emoticons\Buff Emoticons\obj\Debug\Buff Emoticons.pdb
