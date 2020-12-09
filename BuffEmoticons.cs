@@ -1,13 +1,10 @@
 ﻿using System;
-using System.IO;
-using System.IO.Streams;
 
 using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
-using TShockAPI.Hooks;
 
-namespace BuffEmoticons
+namespace ClassLibrary3
 {
     [ApiVersion(2, 1)]
     public class Class1 : TerrariaPlugin
@@ -15,7 +12,7 @@ namespace BuffEmoticons
 
         public override Version Version
         {
-            get { return new Version("2.0.0"); }
+            get { return new Version("2.1"); }
         }
 
         public override string Name
@@ -25,7 +22,7 @@ namespace BuffEmoticons
 
         public override string Author
         {
-            get { return "Dylan"; }
+            get { return "Dylan 'The Killer [NL]'"; }
         }
 
         public Class1(Main game)
@@ -52,6 +49,7 @@ namespace BuffEmoticons
             Commands.ChatCommands.Add(new Command(Calm, "calm"));
             Commands.ChatCommands.Add(new Command(Sexy, "sexy"));
             Commands.ChatCommands.Add(new Command(Oof, "oof"));
+            Commands.ChatCommands.Add(new Command(Goat, "goat"));
         }
 
         protected override void Dispose(bool disposing)
@@ -109,6 +107,10 @@ namespace BuffEmoticons
         public void Oof(CommandArgs e)
         {
             e.Player.SetBuff(17, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Goat(CommandArgs e)
+        {
+            e.Player.SetBuff(282, 2600, true); // First Buff ID //Second Time In MilliSeconds
         }
     }
 }

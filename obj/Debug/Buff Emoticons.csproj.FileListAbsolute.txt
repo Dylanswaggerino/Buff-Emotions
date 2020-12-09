@@ -35,3 +35,16 @@ C:\Users\goofe\OneDrive\Bureaublad\Buff-master\bin\Debug\Mono.Data.Sqlite.dll
 C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.csprojResolveAssemblyReference.cache
 C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.dll
 C:\Users\goofe\OneDrive\Bureaublad\Buff-master\obj\Debug\Buff Emoticons.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\Buff Emoticons.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\Buff Emoticons.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\OTAPI.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\TerrariaServer.exe
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\TShockAPI.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\OTAPI.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\bin\Debug\TerrariaServer.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\obj\Debug\Buff Emoticons.csprojAssemblyReference.cache
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\obj\Debug\Buff Emoticons.csproj.CoreCompileInputs.cache
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\obj\Debug\Buff Emoticons.csproj.CopyComplete
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\obj\Debug\Buff Emoticons.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\obj\Debug\Buff Emoticons.pdb
