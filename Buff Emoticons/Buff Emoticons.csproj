@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Buff_Emoticons</RootNamespace>
     <AssemblyName>Buff Emoticons</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -30,18 +31,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OTAPI">
+      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\OTAPI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\..\..\..\Desktop\Dylan Zijn Plugin\tshock\TerrariaServer.exe</HintPath>
+      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\TerrariaServer.exe</HintPath>
     </Reference>
     <Reference Include="TShockAPI">
-      <HintPath>..\..\..\..\..\Desktop\Dylan Zijn Plugin\tshock\ServerPlugins\TShockAPI.dll</HintPath>
+      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\ServerPlugins\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

@@ -1,22 +1,18 @@
 ﻿using System;
-using System.IO;
-using System.IO.Streams;
 
 using Terraria;
-using Terraria.ID;
 using TerrariaApi.Server;
 using TShockAPI;
-using TShockAPI.Hooks;
 
 namespace ClassLibrary3
 {
-    [ApiVersion(1, 21)]
+    [ApiVersion(2, 1)]
     public class Class1 : TerrariaPlugin
     {
 
         public override Version Version
         {
-            get { return new Version("1.3"); }
+            get { return new Version("2.1"); }
         }
 
         public override string Name
@@ -26,7 +22,7 @@ namespace ClassLibrary3
 
         public override string Author
         {
-            get { return "Dylan"; }
+            get { return "Dylan 'The Killer [NL]'"; }
         }
 
         public Class1(Main game)
@@ -47,6 +43,13 @@ namespace ClassLibrary3
             Commands.ChatCommands.Add(new Command(Sad, "sad"));
             Commands.ChatCommands.Add(new Command(Dreaming, "dream"));
             Commands.ChatCommands.Add(new Command(Freedom, "freedom"));
+            Commands.ChatCommands.Add(new Command(Gravity, "gravity"));
+            Commands.ChatCommands.Add(new Command(Peace, "peace"));
+            Commands.ChatCommands.Add(new Command(Hidden, "hidden"));
+            Commands.ChatCommands.Add(new Command(Calm, "calm"));
+            Commands.ChatCommands.Add(new Command(Sexy, "sexy"));
+            Commands.ChatCommands.Add(new Command(Oof, "oof"));
+            Commands.ChatCommands.Add(new Command(Goat, "goat"));
         }
 
         protected override void Dispose(bool disposing)
@@ -77,9 +80,37 @@ namespace ClassLibrary3
         {
             e.Player.SetBuff(128, 2600, true);
         }
-	    public void Freedom(CommandArgs e)
+        public void Freedom(CommandArgs e)
         {
             e.Player.SetBuff(298, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Gravity(CommandArgs e)
+        {
+            e.Player.SetBuff(18, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Peace(CommandArgs e)
+        {
+            e.Player.SetBuff(157, 1200, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Hidden(CommandArgs e)
+        {
+            e.Player.SetBuff(10, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Calm(CommandArgs e)
+        {
+            e.Player.SetBuff(106, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Sexy(CommandArgs e)
+        {
+            e.Player.SetBuff(193, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Oof(CommandArgs e)
+        {
+            e.Player.SetBuff(17, 2600, true); // First Buff ID //Second Time In MilliSeconds
+        }
+        public void Goat(CommandArgs e)
+        {
+            e.Player.SetBuff(282, 2600, true); // First Buff ID //Second Time In MilliSeconds
         }
     }
 }
