@@ -1,6 +1,7 @@
 # Buff Emoticons
-Buff Emoticons
-Buff Emoticons are Emoticons That gives players a Emoticon when he typed a command like /sad (newest command) 
+
+Buff Emoticons plugin gives the user a in-game buff for 46 seconds!
+
 
 1. Every command has a different buff!
 2. They are all based on how you can feel or think.
