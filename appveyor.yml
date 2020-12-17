@@ -12,7 +12,7 @@ before_build:
   - 7z e %ZIPFILE% -o..\lib\ OTAPI.dll TerrariaServer.exe TShockAPI.dll -r
 build:
   verbosity: minimal
-  project: c:\projects\buff-emotions\buff emoticons
+  project: buff-emoticons\buff emoticons.sln
 notifications:
   - provider: GitHubPullRequest
     on_build_success: true
