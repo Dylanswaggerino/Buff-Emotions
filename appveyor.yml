@@ -1,0 +1,19 @@
+version: 0.1.{build}
+image: Visual Studio 2019
+platform: x86
+configuration: Debug
+before_build:
+  - nuget restore
+  - SET TEMPDIR=temp
+  - SET ZIPFILE=TShock4.4.0_Pre11_Terraria1.4.0.5.zip
+  - md %TEMPDIR%
+  - cd %TEMPDIR%
+  - curl -fsSLJo %ZIPFILE% https://github.com/Pryaxis/TShock/releases/download/v4.4.0-pre11/TShock4.4.0_Pre11_Terraria1.4.0.5.zip
+  - 7z e %ZIPFILE% -o..\lib\ OTAPI.dll TerrariaServer.exe TShockAPI.dll -r
+build:
+  verbosity: minimal
+notifications:
+  - provider: GitHubPullRequest
+    on_build_success: true
+    on_build_failure: true
+    on_build_status_changed: true
