@@ -1,0 +1,14 @@
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\Buff-Emoticons.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\Buff-Emoticons.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\OTAPI.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\TerrariaServer.exe
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\TShockAPI.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\OTAPI.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\TerrariaServer.pdb
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\obj\x86\Debug\Buff-Emoticons.csprojAssemblyReference.cache
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\obj\x86\Debug\Buff-Emoticons.csproj.CoreCompileInputs.cache
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\obj\x86\Debug\Buff-Emoticons.csproj.CopyComplete
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\obj\x86\Debug\Buff-Emoticons.dll
+C:\Users\goofe\Documents\GitHub\Buff-Emotions\Buff-Emoticons\obj\x86\Debug\Buff-Emoticons.pdb
