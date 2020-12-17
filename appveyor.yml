@@ -1,7 +1,5 @@
 version: 0.1.{build}
 image: Visual Studio 2019
-platform: x86
-configuration: Debug
 before_build:
   - nuget restore
   - SET TEMPDIR=temp
@@ -12,7 +10,6 @@ before_build:
   - 7z e %ZIPFILE% -o..\lib\ OTAPI.dll TerrariaServer.exe TShockAPI.dll -r
 build:
   verbosity: minimal
-  project: Buff-Emoticons.sln
 notifications:
   - provider: GitHubPullRequest
     on_build_success: true
