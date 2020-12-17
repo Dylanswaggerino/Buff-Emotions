@@ -4,10 +4,10 @@ using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
 
-namespace ClassLibrary3
+namespace BuffEmoticons
 {
     [ApiVersion(2, 1)]
-    public class Class1 : TerrariaPlugin
+    public class BuffEmoticons : TerrariaPlugin
     {
 
         public override Version Version
@@ -25,7 +25,7 @@ namespace ClassLibrary3
             get { return "Dylan 'The Killer [NL]'"; }
         }
 
-        public Class1(Main game)
+        public BuffEmoticons(Main game)
             : base(game)
         {
             Order = 4;
