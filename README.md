@@ -26,6 +26,9 @@
 - Download the Release for the DLL file.
 - Drop & Drag the buffemoticons.dll into your plugin folder
 
+### Terraria Version:
+1.4.2
+
 ### Things to do:
 
 - [x] New Commands for 1.4.1
