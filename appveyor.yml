@@ -13,7 +13,7 @@ before_build:
 build:
   verbosity: minimal
 artifacts:
-  - path: Buff-EmoticonsTerracord\bin\$(platform)\$(configuration)\net461\Buff-Emoticons.dll
+  - path: Buff-Emoticons\bin\$(platform)\$(configuration)\net461\Buff-Emoticons.dll
     name: Buff-Emoticons
 notifications:
   - provider: GitHubPullRequest
