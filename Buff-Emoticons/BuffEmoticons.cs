@@ -1,5 +1,4 @@
 ﻿using System;
-
 using Terraria;
 using TerrariaApi.Server;
 using TShockAPI;
@@ -12,7 +11,7 @@ namespace BuffEmoticons
 
         public override Version Version
         {
-            get { return new Version("2.1"); }
+            get { return new Version("2.2"); }
         }
 
         public override string Name
@@ -22,7 +21,7 @@ namespace BuffEmoticons
 
         public override string Author
         {
-            get { return "Dylan 'The Killer [NL]'"; }
+            get { return "Dylan, 'The Killer [NL]'"; }
         }
 
         public BuffEmoticons(Main game)
@@ -56,6 +55,9 @@ namespace BuffEmoticons
         {
             base.Dispose(disposing);
         }
+
+        // First Buff ID 
+        // Second Time In MilliSeconds
         public void Love(CommandArgs e)
         {
             e.Player.SetBuff(119, 2600, true);
@@ -82,35 +84,35 @@ namespace BuffEmoticons
         }
         public void Freedom(CommandArgs e)
         {
-            e.Player.SetBuff(298, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(298, 2600, true); 
         }
         public void Gravity(CommandArgs e)
         {
-            e.Player.SetBuff(18, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(18, 2600, true); 
         }
         public void Peace(CommandArgs e)
         {
-            e.Player.SetBuff(157, 1200, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(157, 1200, true); 
         }
         public void Hidden(CommandArgs e)
         {
-            e.Player.SetBuff(10, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(10, 2600, true); 
         }
         public void Calm(CommandArgs e)
         {
-            e.Player.SetBuff(106, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(106, 2600, true); 
         }
         public void Sexy(CommandArgs e)
         {
-            e.Player.SetBuff(193, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(193, 2600, true);
         }
         public void Oof(CommandArgs e)
         {
-            e.Player.SetBuff(17, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(17, 2600, true); 
         }
         public void Goat(CommandArgs e)
         {
-            e.Player.SetBuff(282, 2600, true); // First Buff ID //Second Time In MilliSeconds
+            e.Player.SetBuff(282, 2600, true);
         }
     }
 }

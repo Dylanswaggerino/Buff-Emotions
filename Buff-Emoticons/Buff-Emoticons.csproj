@@ -49,8 +49,12 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\Desktop\TSHOCK\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="OTAPI">
-      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\OTAPI.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\TSHOCK\OTAPI.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -61,10 +65,10 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="TerrariaServer">
-      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\TerrariaServer.exe</HintPath>
+      <HintPath>..\..\..\..\Desktop\TSHOCK\TerrariaServer.exe</HintPath>
     </Reference>
     <Reference Include="TShockAPI">
-      <HintPath>..\..\..\..\Downloads\TShock4.4.0_Pre15_Terraria1.4.1.2\TShock4.4.0_Pre15_Terraria1.4.1.2\ServerPlugins\TShockAPI.dll</HintPath>
+      <HintPath>..\..\..\..\Desktop\TSHOCK\TShockAPI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
