@@ -13,8 +13,8 @@ before_build:
 build:
   verbosity: minimal
 artifacts:
-  - path: Terracord\bin\$(platform)\$(configuration)\net461\Terracord.dll
-    name: Terracord
+  - path: Buff-EmoticonsTerracord\bin\$(platform)\$(configuration)\net461\Buff-Emoticons.dll
+    name: Buff-Emoticons
 notifications:
   - provider: GitHubPullRequest
     on_build_success: true
