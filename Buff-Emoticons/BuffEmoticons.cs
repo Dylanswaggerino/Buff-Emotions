@@ -11,7 +11,7 @@ namespace BuffEmoticons
 
         public override Version Version
         {
-            get { return new Version("2.2"); }
+            get { return new Version("2.3"); }
         }
 
         public override string Name
