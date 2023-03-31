@@ -27,7 +27,7 @@
 - Drop & Drag the buffemoticons.dll into your plugin folder
 
 ### Terraria Version:
-1.4.2
+1.4.3
 
 ### Things to do:
 
